@@ -2,8 +2,11 @@
 
 
 This is the first task assigned to me in summer training at Smart Methods Company.
+
 This project is the programming part of the main project to design and implement a robotic arm of a fencing robot that I'm working on with a team.
+
 In this task I designed a user interface with six sliders that control the movement of six motors in the range between 0 to 180 degrees, using HTML, CSS, and javascript.
+
 Also, I created a database that saves motors' values by clicking the save button from UI after choose values for sliders, using PHP and SQL.
 
 
