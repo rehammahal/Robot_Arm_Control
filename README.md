@@ -9,7 +9,7 @@ In this task, I designed a user interface with six sliders that control the move
 
 Also, I created a database that saves motors' values by clicking the save button from UI after choose values for sliders, using PHP and SQL.
 
-
+To See The UI: https://rehammahal.github.io/Robot_Arm_Control/
 ________________________________________
 
 
@@ -23,3 +23,4 @@ HTML, CSS, Javascript.
 وأنشئت قاعدة بيانات لحفظ قيم المحركات بعد اختيار القيم من الشريط عن طريق الضغط على زر حفظ، وتم ربط قاعدة البيانات بواجهة التحكم، هنا استخدمت لغات
 PHP, SQL.
 
+لمشاهدة واجهة التحكم: https://rehammahal.github.io/Robot_Arm_Control/
